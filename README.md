@@ -1,2 +1,4 @@
 # .github
-BROBOT is a personal assistant for DeltaV THRUST with a desire to be a meme token to expand into local lanaguage model traiing
+BROBOT is a personal assistant for DeltaV THRUST with a desire to be a meme token to expand into local lanaguage model training. BROBOT:thrust is the first version of BROBOT being used to enhance a cryptocurrency project to increase adoption. Interaction with BROBOT:thrust happens at <a href="https://deltavthrust.com">DeltaV THRUST</a> in the top right hand corner icon. <a href="https://ollamahub.com/m/codephreak/brobot:thrust">BROBOT:thrust</a> local language model alpha version 1 is open source at <a href="https://ollamahub.com/m/codephreak/brobot:thrust">brobot:thrust</a><br />
+
+BROBOT BRAI is a Solana meme coin designed to enhance the overall rate of cryptocurrency adoption by providing BROBOT as a tool to existing and launching cryptocurrency projects to enhance the cryptocurrency adoption rate as a whole.
